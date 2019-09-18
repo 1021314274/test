@@ -1,0 +1,18 @@
+{
+    "name": "zouzhanhao/test",
+    "description": "测试",
+    "type": "library",
+    "authors": [
+        {
+            "name": "zouzhanhao",
+            "email": "1021314274@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{
+            "test\\":"src"
+        }
+    }
+}
