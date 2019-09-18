@@ -2,6 +2,7 @@
     "name": "zouzhanhao/test",
     "description": "测试",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "zouzhanhao",
