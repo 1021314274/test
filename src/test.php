@@ -7,4 +7,9 @@ class test
     {
         echo "hello word";
     }
+
+    public static function test2()
+    {
+        echo "hello word";
+    }
 }

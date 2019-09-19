@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="de0ec553-3d38-4eaa-ba83-922595a5821e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,6 +35,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -57,7 +63,7 @@
       <option name="presentableId" value="Default" />
       <updated>1568810835949</updated>
       <workItem from="1568810837077" duration="127000" />
-      <workItem from="1568811076031" duration="1527000" />
+      <workItem from="1568811076031" duration="3308000" />
     </task>
     <servers />
   </component>
